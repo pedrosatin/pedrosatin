@@ -1,6 +1,6 @@
 # Pedro Satin
 
-Software engineer at [Saúde Bliss](https://github.com/saudebliss) and university professor at [UniCesumar](https://github.com/unicesumar), based in Brazil.
+Software engineer at [Blisshub](https://github.com/saudebliss) and university professor at [UniCesumar](https://github.com/unicesumar), based in Brazil.
 
 I build web applications and automations, and publish tools I use in my own work. I also teach generative AI and software development with agents.
 
